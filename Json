@@ -1,0 +1,27 @@
+[
+    {
+        "vegetable_name": "Carrot",
+        "vegetable_price": "2.50",
+        "nationality": "Ukrainian"
+    },
+    {
+        "vegetable_name": "Potato",
+        "vegetable_price": "1.80",
+        "nationality": "Ukrainian"
+    },
+    {
+        "vegetable_name": "Tomato",
+        "vegetable_price": "3.00",
+        "nationality": "Turkish"
+    },
+    {
+        "vegetable_name": "Cucumber",
+        "vegetable_price": "2.20",
+        "nationality": "Polish"
+    },
+    {
+        "vegetable_name": "Onion",
+        "vegetable_price": "1.30",
+        "nationality": "Ukrainian"
+    }
+]
